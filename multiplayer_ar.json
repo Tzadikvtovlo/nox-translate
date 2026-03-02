@@ -1,0 +1,1467 @@
+{
+  "format": "qt-qm-extract-v1",
+  "meta": {
+    "source_qm": "multiplayer_ar.qm",
+    "target_language": "he",
+    "source_language": "",
+    "message_count": 199
+  },
+  "messages": [
+    {
+      "id": 1,
+      "context": "AppItem",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 2,
+      "context": "AppPushDlg",
+      "source": "Install",
+      "comment": "",
+      "translation": "התקן"
+    },
+    {
+      "id": 3,
+      "context": "ArrowWidget",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 4,
+      "context": "AutoBootSettingDlg",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 5,
+      "context": "CategoryView",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחק"
+    },
+    {
+      "id": 6,
+      "context": "CategoryView",
+      "source": "Start",
+      "comment": "",
+      "translation": "הפעל"
+    },
+    {
+      "id": 7,
+      "context": "CategoryView",
+      "source": "System Settings",
+      "comment": "",
+      "translation": "הגדרות מערכת"
+    },
+    {
+      "id": 8,
+      "context": "ComboboxItemCustom",
+      "source": "Backup",
+      "comment": "",
+      "translation": "גיבוי"
+    },
+    {
+      "id": 9,
+      "context": "ComboboxItemCustom",
+      "source": "Batch settings",
+      "comment": "",
+      "translation": "הגדרות אצווה"
+    },
+    {
+      "id": 10,
+      "context": "ComboboxItemCustom",
+      "source": "Copy",
+      "comment": "",
+      "translation": "העתק"
+    },
+    {
+      "id": 11,
+      "context": "ComboboxItemCustom",
+      "source": "Create New",
+      "comment": "",
+      "translation": "צור חדש"
+    },
+    {
+      "id": 12,
+      "context": "ComboboxItemCustom",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחק"
+    },
+    {
+      "id": 13,
+      "context": "ComboboxItemCustom",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 14,
+      "context": "ComboboxItemCustom",
+      "source": "Multi-instance Settings",
+      "comment": "",
+      "translation": "הגדרות ריבוי-מופעים"
+    },
+    {
+      "id": 15,
+      "context": "ComboboxItemCustom",
+      "source": "Start",
+      "comment": "",
+      "translation": "הפעל"
+    },
+    {
+      "id": 16,
+      "context": "ComboboxItemCustom",
+      "source": "Stop",
+      "comment": "",
+      "translation": "סגור"
+    },
+    {
+      "id": 17,
+      "context": "DownloadDlg",
+      "source": "Nox Asst",
+      "comment": "",
+      "translation": "עוזר Nox"
+    },
+    {
+      "id": 18,
+      "context": "EmulatorView",
+      "source": "Backup",
+      "comment": "",
+      "translation": "גיבוי"
+    },
+    {
+      "id": 19,
+      "context": "EmulatorView",
+      "source": "Backuping",
+      "comment": "",
+      "translation": "מבצע גיבוי"
+    },
+    {
+      "id": 20,
+      "context": "EmulatorView",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 21,
+      "context": "EmulatorView",
+      "source": "Copy",
+      "comment": "",
+      "translation": "העתק"
+    },
+    {
+      "id": 22,
+      "context": "EmulatorView",
+      "source": "Create shortcut",
+      "comment": "",
+      "translation": "צור קיצור דרך"
+    },
+    {
+      "id": 23,
+      "context": "EmulatorView",
+      "source": "Data backup",
+      "comment": "",
+      "translation": "גיבוי נתונים"
+    },
+    {
+      "id": 24,
+      "context": "EmulatorView",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחק"
+    },
+    {
+      "id": 25,
+      "context": "EmulatorView",
+      "source": "Downloading",
+      "comment": "",
+      "translation": "מוריד"
+    },
+    {
+      "id": 26,
+      "context": "EmulatorView",
+      "source": "Name conflict with other emulator!",
+      "comment": "",
+      "translation": "קיימת התנגשות שמות עם אמולטור אחר!"
+    },
+    {
+      "id": 27,
+      "context": "EmulatorView",
+      "source": "Not enough disk space,unlock failed!",
+      "comment": "",
+      "translation": "אין מספיק מקום בדיסק, פתיחת הנעילה נכשלה!"
+    },
+    {
+      "id": 28,
+      "context": "EmulatorView",
+      "source": "Nox",
+      "comment": "",
+      "translation": "NoxPlayer"
+    },
+    {
+      "id": 29,
+      "context": "EmulatorView",
+      "source": "Ok",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 30,
+      "context": "EmulatorView",
+      "source": "Power off",
+      "comment": "",
+      "translation": "לא מופעל"
+    },
+    {
+      "id": 31,
+      "context": "EmulatorView",
+      "source": "Restoring",
+      "comment": "",
+      "translation": "משחזר"
+    },
+    {
+      "id": 32,
+      "context": "EmulatorView",
+      "source": "Running",
+      "comment": "",
+      "translation": "מופעל"
+    },
+    {
+      "id": 33,
+      "context": "EmulatorView",
+      "source": "Settings have changed successfully!",
+      "comment": "",
+      "translation": "ההגדרות עודכנו!"
+    },
+    {
+      "id": 34,
+      "context": "EmulatorView",
+      "source": "Start",
+      "comment": "",
+      "translation": "הפעל"
+    },
+    {
+      "id": 35,
+      "context": "EmulatorView",
+      "source": "Starting",
+      "comment": "",
+      "translation": "מפעיל"
+    },
+    {
+      "id": 36,
+      "context": "EmulatorView",
+      "source": "Stop",
+      "comment": "",
+      "translation": "סגור"
+    },
+    {
+      "id": 37,
+      "context": "EmulatorView",
+      "source": "System Settings",
+      "comment": "",
+      "translation": "הגדרות מערכת"
+    },
+    {
+      "id": 38,
+      "context": "EmulatorView",
+      "source": "Unlocking",
+      "comment": "",
+      "translation": "פותח נעילה"
+    },
+    {
+      "id": 39,
+      "context": "EmulatorView",
+      "source": "Waiting",
+      "comment": "",
+      "translation": "ממתין"
+    },
+    {
+      "id": 40,
+      "context": "EmulatorView",
+      "source": "unlock failed!",
+      "comment": "",
+      "translation": "פתיחת הנעילה נכשלה!"
+    },
+    {
+      "id": 41,
+      "context": "Guide_Dialog_1",
+      "source": "Add emulator",
+      "comment": "",
+      "translation": "הוסף אמולטור"
+    },
+    {
+      "id": 42,
+      "context": "HThreeWidget",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 43,
+      "context": "HToolButtonWidget",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 44,
+      "context": "IPLineEdit",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 45,
+      "context": "LoginTipWidget",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 46,
+      "context": "LoginTitle",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 47,
+      "context": "MessageItem",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחק"
+    },
+    {
+      "id": 48,
+      "context": "MessageItem",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 49,
+      "context": "MessageItem",
+      "source": "Install",
+      "comment": "",
+      "translation": "התקן"
+    },
+    {
+      "id": 50,
+      "context": "MessageWidget",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 51,
+      "context": "MultiArrangeDialog",
+      "source": "Arrangement Setting",
+      "comment": "",
+      "translation": "סידור ריבוי-מופעים"
+    },
+    {
+      "id": 52,
+      "context": "MultiCreateDialog",
+      "source": "Batch copy/create",
+      "comment": "",
+      "translation": "העתקה/יצירה באצווה"
+    },
+    {
+      "id": 53,
+      "context": "MultiCreateDialog",
+      "source": "Batch operation",
+      "comment": "",
+      "translation": "פעולת אצווה"
+    },
+    {
+      "id": 54,
+      "context": "MultiCreateDialog",
+      "source": "Multi-instance Settings",
+      "comment": "",
+      "translation": "הגדרות ריבוי-מופעים"
+    },
+    {
+      "id": 55,
+      "context": "MultiCreateDialog",
+      "source": "Save Changes",
+      "comment": "",
+      "translation": "שמור הגדרות"
+    },
+    {
+      "id": 56,
+      "context": "MultiCreateDialog",
+      "source": "Start up each NoxPlayer instance at an interval of",
+      "comment": "",
+      "translation": "הפעל כל מופע של NoxPlayer במרווח של"
+    },
+    {
+      "id": 57,
+      "context": "MultiCreateDialog",
+      "source": "Startup interval",
+      "comment": "",
+      "translation": "מרווח הפעלה"
+    },
+    {
+      "id": 58,
+      "context": "MultiCreateDialog",
+      "source": "instances",
+      "comment": "",
+      "translation": "מופעים"
+    },
+    {
+      "id": 59,
+      "context": "MultiCreateDialog",
+      "source": "seconds",
+      "comment": "",
+      "translation": "שניות"
+    },
+    {
+      "id": 60,
+      "context": "MultiPlayerGroup",
+      "source": " results",
+      "comment": "",
+      "translation": " תוצאות נמצאו"
+    },
+    {
+      "id": 61,
+      "context": "MultiPlayerGroup",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "לא"
+    },
+    {
+      "id": 62,
+      "context": "MultiPlayerGroup",
+      "source": "Continue to arrange",
+      "comment": "",
+      "translation": "המשך בסידור"
+    },
+    {
+      "id": 63,
+      "context": "MultiPlayerGroup",
+      "source": "Internet connection error. Please try again later.",
+      "comment": "",
+      "translation": "שגיאת חיבור לאינטרנט. אנא נסה שוב מאוחר יותר."
+    },
+    {
+      "id": 64,
+      "context": "MultiPlayerGroup",
+      "source": "Nox",
+      "comment": "",
+      "translation": "NoxPlayer"
+    },
+    {
+      "id": 65,
+      "context": "MultiPlayerGroup",
+      "source": "Ok",
+      "comment": "",
+      "translation": "כן"
+    },
+    {
+      "id": 66,
+      "context": "MultiPlayerGroup",
+      "source": "Overlap among emulators",
+      "comment": "",
+      "translation": "חפיפה בין אמולטורים"
+    },
+    {
+      "id": 67,
+      "context": "MultiPlayerGroup",
+      "source": "The emulator you selected is cleaning up the disk,\nPlease try again later.",
+      "comment": "",
+      "translation": "האמולטור שבחרת מבצע ניקוי דיסק,\nאנא נסה שוב מאוחר יותר."
+    },
+    {
+      "id": 68,
+      "context": "MultiPlayerGroup",
+      "source": "another Unlocking is proceeding!",
+      "comment": "",
+      "translation": "אמולטור אחר נמצא בתהליך פתיחת נעילה!"
+    },
+    {
+      "id": 69,
+      "context": "MultiPlayerGroup",
+      "source": "found ",
+      "comment": "",
+      "translation": "נמצא "
+    },
+    {
+      "id": 70,
+      "context": "MultiPlayerGroup",
+      "source": "unlock failed!",
+      "comment": "",
+      "translation": "פתיחת הנעילה נכשלה!"
+    },
+    {
+      "id": 71,
+      "context": "MultiPlayerSetDlg",
+      "source": "Add emulator",
+      "comment": "",
+      "translation": "הוסף אמולטור"
+    },
+    {
+      "id": 72,
+      "context": "MultiPlayerSetDlg",
+      "source": "All",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 73,
+      "context": "MultiPlayerSetDlg",
+      "source": "Arrangement Setting",
+      "comment": "",
+      "translation": "סידור ריבוי-מופעים"
+    },
+    {
+      "id": 74,
+      "context": "MultiPlayerSetDlg",
+      "source": "Bulk Operation",
+      "comment": "",
+      "translation": "פעולת אצווה"
+    },
+    {
+      "id": 75,
+      "context": "MultiPlayerSetDlg",
+      "source": "Copy",
+      "comment": "",
+      "translation": "העתק"
+    },
+    {
+      "id": 76,
+      "context": "MultiPlayerSetDlg",
+      "source": "Create New",
+      "comment": "",
+      "translation": "צור חדש"
+    },
+    {
+      "id": 77,
+      "context": "MultiPlayerSetDlg",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחק"
+    },
+    {
+      "id": 78,
+      "context": "MultiPlayerSetDlg",
+      "source": "FAQ",
+      "comment": "",
+      "translation": "שאלות נפוצות"
+    },
+    {
+      "id": 79,
+      "context": "MultiPlayerSetDlg",
+      "source": "Feedback",
+      "comment": "",
+      "translation": "משוב"
+    },
+    {
+      "id": 80,
+      "context": "MultiPlayerSetDlg",
+      "source": "Game Center",
+      "comment": "",
+      "translation": "מרכז אפליקציות"
+    },
+    {
+      "id": 81,
+      "context": "MultiPlayerSetDlg",
+      "source": "Install",
+      "comment": "",
+      "translation": "התקן"
+    },
+    {
+      "id": 82,
+      "context": "MultiPlayerSetDlg",
+      "source": "Internet connection error. Please try again later.",
+      "comment": "",
+      "translation": "שגיאת חיבור לאינטרנט. אנא נסה שוב מאוחר יותר."
+    },
+    {
+      "id": 83,
+      "context": "MultiPlayerSetDlg",
+      "source": "Nox Asst",
+      "comment": "",
+      "translation": "עוזר Nox"
+    },
+    {
+      "id": 84,
+      "context": "MultiPlayerSetDlg",
+      "source": "Nox Backup is currently in progress.",
+      "comment": "",
+      "translation": "מבצע גיבוי"
+    },
+    {
+      "id": 85,
+      "context": "MultiPlayerSetDlg",
+      "source": "Nox Restore is currently in progress.",
+      "comment": "",
+      "translation": "מבצע ייבוא"
+    },
+    {
+      "id": 86,
+      "context": "MultiPlayerSetDlg",
+      "source": "Official Site",
+      "comment": "",
+      "translation": "אתר רשמי"
+    },
+    {
+      "id": 87,
+      "context": "MultiPlayerSetDlg",
+      "source": "Ok",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 88,
+      "context": "MultiPlayerSetDlg",
+      "source": "Pin to top",
+      "comment": "",
+      "translation": "נעץ למעלה"
+    },
+    {
+      "id": 89,
+      "context": "MultiPlayerSetDlg",
+      "source": "Restore",
+      "comment": "",
+      "translation": "ייבוא"
+    },
+    {
+      "id": 90,
+      "context": "MultiPlayerSetDlg",
+      "source": "Search",
+      "comment": "",
+      "translation": "חיפוש"
+    },
+    {
+      "id": 91,
+      "context": "MultiPlayerSetDlg",
+      "source": "Search for games & apps...",
+      "comment": "",
+      "translation": "חפש אפליקציות..."
+    },
+    {
+      "id": 92,
+      "context": "MultiPlayerSetDlg",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 93,
+      "context": "MultiPlayerSetDlg",
+      "source": "Start",
+      "comment": "",
+      "translation": "הפעל"
+    },
+    {
+      "id": 94,
+      "context": "MultiPlayerSetDlg",
+      "source": "Stop",
+      "comment": "",
+      "translation": "סגור"
+    },
+    {
+      "id": 95,
+      "context": "MultiPlayerSetDlg",
+      "source": "Unlocking is proceeding.",
+      "comment": "",
+      "translation": "פותח נעילה."
+    },
+    {
+      "id": 96,
+      "context": "MultiPlayerSetDlg",
+      "source": "Unpin from top",
+      "comment": "",
+      "translation": "בטל נעץ"
+    },
+    {
+      "id": 97,
+      "context": "MultiPlayerSetDlg",
+      "source": "another Unlocking is proceeding!",
+      "comment": "",
+      "translation": "אמולטור אחר נמצא בתהליך פתיחת נעילה!"
+    },
+    {
+      "id": 98,
+      "context": "MultiSettingDialog",
+      "source": "Batch copy/create",
+      "comment": "",
+      "translation": "העתקה/יצירה באצווה"
+    },
+    {
+      "id": 99,
+      "context": "MultiSettingDialog",
+      "source": "Batch operation",
+      "comment": "",
+      "translation": "פעולת אצווה"
+    },
+    {
+      "id": 100,
+      "context": "MultiSettingDialog",
+      "source": "Customize",
+      "comment": "",
+      "translation": "מותאם אישית"
+    },
+    {
+      "id": 101,
+      "context": "MultiSettingDialog",
+      "source": "DPI",
+      "comment": "",
+      "translation": "DPI"
+    },
+    {
+      "id": 102,
+      "context": "MultiSettingDialog",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 103,
+      "context": "MultiSettingDialog",
+      "source": "Frames",
+      "comment": "",
+      "translation": "הגדרות פריימים"
+    },
+    {
+      "id": 104,
+      "context": "MultiSettingDialog",
+      "source": "Height",
+      "comment": "",
+      "translation": "גובה"
+    },
+    {
+      "id": 105,
+      "context": "MultiSettingDialog",
+      "source": "Lower frames will allow more instances to run. It is recommended that you set no less than 20 as the minimum.",
+      "comment": "",
+      "translation": "קצב פריימים נמוך יאפשר הרצת יותר מופעים. מומלץ להגדיר לפחות 20 כמינימום."
+    },
+    {
+      "id": 106,
+      "context": "MultiSettingDialog",
+      "source": "Multi-instance Settings",
+      "comment": "",
+      "translation": "הגדרות ריבוי-מופעים"
+    },
+    {
+      "id": 107,
+      "context": "MultiSettingDialog",
+      "source": "Phone",
+      "comment": "",
+      "translation": "טלפון נייד"
+    },
+    {
+      "id": 108,
+      "context": "MultiSettingDialog",
+      "source": "Save Changes",
+      "comment": "",
+      "translation": "שמור הגדרות"
+    },
+    {
+      "id": 109,
+      "context": "MultiSettingDialog",
+      "source": "Settings have changed successfully!",
+      "comment": "",
+      "translation": "ההגדרות עודכנו!"
+    },
+    {
+      "id": 110,
+      "context": "MultiSettingDialog",
+      "source": "Sounds",
+      "comment": "",
+      "translation": "צלילים"
+    },
+    {
+      "id": 111,
+      "context": "MultiSettingDialog",
+      "source": "Start up each NoxPlayer instance at an interval of",
+      "comment": "",
+      "translation": "הפעל כל מופע של NoxPlayer במרווח של"
+    },
+    {
+      "id": 112,
+      "context": "MultiSettingDialog",
+      "source": "Startup interval",
+      "comment": "",
+      "translation": "מרווח הפעלה"
+    },
+    {
+      "id": 113,
+      "context": "MultiSettingDialog",
+      "source": "Suggest setting DPI between 150 and 480",
+      "comment": "",
+      "translation": "DPI מומלץ הוא 150-480"
+    },
+    {
+      "id": 114,
+      "context": "MultiSettingDialog",
+      "source": "Tablet",
+      "comment": "",
+      "translation": "טאבלט"
+    },
+    {
+      "id": 115,
+      "context": "MultiSettingDialog",
+      "source": "The above settings will be applied to every instances",
+      "comment": "",
+      "translation": "ההגדרות לעיל יחולו על כל המופעים"
+    },
+    {
+      "id": 116,
+      "context": "MultiSettingDialog",
+      "source": "Turn off sounds will lower CPU consumption",
+      "comment": "",
+      "translation": "כיבוי צלילים יפחית את צריכת המעבד (CPU)"
+    },
+    {
+      "id": 117,
+      "context": "MultiSettingDialog",
+      "source": "Width",
+      "comment": "",
+      "translation": "רוחב"
+    },
+    {
+      "id": 118,
+      "context": "MultiSettingDialog",
+      "source": "instances",
+      "comment": "",
+      "translation": "מופעים"
+    },
+    {
+      "id": 119,
+      "context": "MultiSettingDialog",
+      "source": "seconds",
+      "comment": "",
+      "translation": "שניות"
+    },
+    {
+      "id": 120,
+      "context": "MultiSettingDialog_Partial",
+      "source": "CPU",
+      "comment": "",
+      "translation": "מעבד (CPU)"
+    },
+    {
+      "id": 121,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Customize",
+      "comment": "",
+      "translation": "מותאם אישית"
+    },
+    {
+      "id": 122,
+      "context": "MultiSettingDialog_Partial",
+      "source": "DPI",
+      "comment": "",
+      "translation": "DPI"
+    },
+    {
+      "id": 123,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Frames",
+      "comment": "",
+      "translation": "הגדרות פריימים"
+    },
+    {
+      "id": 124,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Height",
+      "comment": "",
+      "translation": "גובה"
+    },
+    {
+      "id": 125,
+      "context": "MultiSettingDialog_Partial",
+      "source": "High",
+      "comment": "",
+      "translation": "גבוה"
+    },
+    {
+      "id": 126,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Low",
+      "comment": "",
+      "translation": "נמוך"
+    },
+    {
+      "id": 127,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Lower frames will allow more instances to run. It is recommended that you set no less than 20 as the minimum.",
+      "comment": "",
+      "translation": "קצב פריימים נמוך יאפשר הרצת יותר מופעים. מומלץ להגדיר לפחות 20 כמינימום."
+    },
+    {
+      "id": 128,
+      "context": "MultiSettingDialog_Partial",
+      "source": "MB",
+      "comment": "",
+      "translation": "MB"
+    },
+    {
+      "id": 129,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Middle",
+      "comment": "",
+      "translation": "בינוני"
+    },
+    {
+      "id": 130,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Performance Setting",
+      "comment": "",
+      "translation": "הגדרות ביצועים"
+    },
+    {
+      "id": 131,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Phone",
+      "comment": "",
+      "translation": "טלפון נייד"
+    },
+    {
+      "id": 132,
+      "context": "MultiSettingDialog_Partial",
+      "source": "RAM",
+      "comment": "",
+      "translation": "זיכרון (RAM)"
+    },
+    {
+      "id": 133,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Save Changes",
+      "comment": "",
+      "translation": "שמור הגדרות"
+    },
+    {
+      "id": 134,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Settings have changed successfully!",
+      "comment": "",
+      "translation": "ההגדרות עודכנו!"
+    },
+    {
+      "id": 135,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Sounds",
+      "comment": "",
+      "translation": "צלילים"
+    },
+    {
+      "id": 136,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Suggest setting DPI between 150 and 480",
+      "comment": "",
+      "translation": "DPI מומלץ הוא 150-480"
+    },
+    {
+      "id": 137,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Tablet",
+      "comment": "",
+      "translation": "טאבלט"
+    },
+    {
+      "id": 138,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Turn off sounds will lower CPU consumption",
+      "comment": "",
+      "translation": "כיבוי צלילים יפחית את צריכת המעבד (CPU)"
+    },
+    {
+      "id": 139,
+      "context": "MultiSettingDialog_Partial",
+      "source": "Width",
+      "comment": "",
+      "translation": "רוחב"
+    },
+    {
+      "id": 140,
+      "context": "PlayerItem",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 141,
+      "context": "PlayerLaunchDialog",
+      "source": "Launching the game engine for you...",
+      "comment": "",
+      "translation": "מפעיל את מנוע המערכת עבורך..."
+    },
+    {
+      "id": 142,
+      "context": "RecallHaveAppInstalledUserDialog",
+      "source": "How time flies, my friend! Let‘s play games! Click Here>>",
+      "comment": "",
+      "translation": "איך שהזמן טס! בוא נתחיל. לחץ כאן >>"
+    },
+    {
+      "id": 143,
+      "context": "RecallHaveNoAppInstalledUserDialog",
+      "source": "They are the most popular games recently. See you in Noxplayer :)",
+      "comment": "",
+      "translation": "אלו האפליקציות הפופולריות ביותר לאחרונה :)"
+    },
+    {
+      "id": 144,
+      "context": "RecommendItem",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 145,
+      "context": "RecommendItem",
+      "source": "Install",
+      "comment": "",
+      "translation": "התקן"
+    },
+    {
+      "id": 146,
+      "context": "RecommendPage",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 147,
+      "context": "RecommendWidget",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 148,
+      "context": "RecommendWidget",
+      "source": "Popular Games",
+      "comment": "",
+      "translation": "אפליקציות פופולריות"
+    },
+    {
+      "id": 149,
+      "context": "ReminderAppInstalledDialog",
+      "source": "65321 people are playing this game, join them now!",
+      "comment": "",
+      "translation": "אלפי אנשים משתמשים בזה עכשיו, הצטרף אליהם!"
+    },
+    {
+      "id": 150,
+      "context": "ReminderAppInstalledDialog",
+      "source": "Go",
+      "comment": "",
+      "translation": "עבור"
+    },
+    {
+      "id": 151,
+      "context": "ReminderAppInstalledDialog",
+      "source": "Good Morning! Let's play games!",
+      "comment": "",
+      "translation": "בוקר טוב! בוא נתחיל!"
+    },
+    {
+      "id": 152,
+      "context": "ReminderAppInstalledDialog",
+      "source": "It's late at night, many people are still playing it >>",
+      "comment": "",
+      "translation": "שעה מאוחרת, רבים עדיין משתמשים בזה >>"
+    },
+    {
+      "id": 153,
+      "context": "ReminderAppInstalledDialog",
+      "source": "It's the best time to play now!",
+      "comment": "",
+      "translation": "זה הזמן הטוב ביותר להתחיל עכשיו!"
+    },
+    {
+      "id": 154,
+      "context": "ReminderAppInstalledDialog",
+      "source": "It's time for the lunch break, I'm waiting for you :)",
+      "comment": "",
+      "translation": "זמן להפסקה, אני מחכה לך :)"
+    },
+    {
+      "id": 155,
+      "context": "ReminderAppInstalledDialog",
+      "source": "This game is updated! Check it now :)",
+      "comment": "",
+      "translation": "האפליקציה עודכנה! בדוק אותה עכשיו :)"
+    },
+    {
+      "id": 156,
+      "context": "ReminderAppInstalledDialog",
+      "source": "This game is updated! Check it now :) (default)",
+      "comment": "",
+      "translation": "האפליקציה עודכנה! בדוק אותה עכשיו :)"
+    },
+    {
+      "id": 157,
+      "context": "ReminderNoAppInstalledDialog",
+      "source": "All the night owls are playing this game!",
+      "comment": "",
+      "translation": "כולם משתמשים בזה עכשיו!"
+    },
+    {
+      "id": 158,
+      "context": "ReminderNoAppInstalledDialog",
+      "source": "Enjoy the games in the afternoon!",
+      "comment": "",
+      "translation": "תהנה מהשימוש בשעות אחר הצהריים!"
+    },
+    {
+      "id": 159,
+      "context": "ReminderNoAppInstalledDialog",
+      "source": "No favorite game? Try these games!",
+      "comment": "",
+      "translation": "אין אפליקציה מועדפת? נסה את אלו!"
+    },
+    {
+      "id": 160,
+      "context": "ReminderNoAppInstalledDialog",
+      "source": "See what others are playing in the morning!",
+      "comment": "",
+      "translation": "ראה במה אחרים משתמשים הבוקר!"
+    },
+    {
+      "id": 161,
+      "context": "ReminderNoAppInstalledDialog",
+      "source": "Take a break! Come on play these fun games!",
+      "comment": "",
+      "translation": "צא להפסקה! בוא לנסות את האפליקציות המהנות הללו!"
+    },
+    {
+      "id": 162,
+      "context": "ReminderNoAppInstalledDialog",
+      "source": "The latest game news & The most popular games",
+      "comment": "",
+      "translation": "החדשות האחרונות והאפליקציות הפופולריות ביותר"
+    },
+    {
+      "id": 163,
+      "context": "ReminderNoAppInstalledDialog",
+      "source": "You deserve it! The most popular game today >>",
+      "comment": "",
+      "translation": "מגיע לך! האפליקציה הפופולרית ביותר היום >>"
+    },
+    {
+      "id": 164,
+      "context": "ReminderRecommendItem",
+      "source": "Start",
+      "comment": "",
+      "translation": "הפעל"
+    },
+    {
+      "id": 165,
+      "context": "RomUpdateView",
+      "source": "Downloading",
+      "comment": "",
+      "translation": "מוריד"
+    },
+    {
+      "id": 166,
+      "context": "RomUpdateView",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 167,
+      "context": "RomUpdateView",
+      "source": "Internet connection error. Please try again later.",
+      "comment": "",
+      "translation": "שגיאת חיבור לאינטרנט. אנא נסה שוב מאוחר יותר."
+    },
+    {
+      "id": 168,
+      "context": "RomUpdateView",
+      "source": "Unlocking",
+      "comment": "",
+      "translation": "פותח נעילה"
+    },
+    {
+      "id": 169,
+      "context": "RomUpdateView",
+      "source": "unlock failed!",
+      "comment": "",
+      "translation": "פתיחת הנעילה נכשלה!"
+    },
+    {
+      "id": 170,
+      "context": "SearchPopup",
+      "source": "Go to Google Search for more games",
+      "comment": "",
+      "translation": "עבור לחיפוש בגוגל לעוד אפליקציות"
+    },
+    {
+      "id": 171,
+      "context": "SearchPopup",
+      "source": "Go to Google Search for more games(cn)",
+      "comment": "",
+      "translation": "עבור למרכז האפליקציות לעוד תוכן"
+    },
+    {
+      "id": 172,
+      "context": "SearchPopup",
+      "source": "Popular Games",
+      "comment": "",
+      "translation": "אפליקציות פופולריות"
+    },
+    {
+      "id": 173,
+      "context": "SearchPopup",
+      "source": "Search Results",
+      "comment": "",
+      "translation": "תוצאות חיפוש"
+    },
+    {
+      "id": 174,
+      "context": "SearchPopup",
+      "source": "Search for games & apps...",
+      "comment": "",
+      "translation": "חפש אפליקציות..."
+    },
+    {
+      "id": 175,
+      "context": "SelectAndroidDlg",
+      "source": "Graphically demanding game's best choice",
+      "comment": "",
+      "translation": "הבחירה הטובה ביותר עבור אפליקציות גרפיות כבדות"
+    },
+    {
+      "id": 176,
+      "context": "SelectAndroidDlg",
+      "source": "Premium",
+      "comment": "",
+      "translation": "פרימיום"
+    },
+    {
+      "id": 177,
+      "context": "SettingController",
+      "source": "Are you sure to reset?",
+      "comment": "",
+      "translation": "האם אתה בטוח שברצונך לשחזר להגדרות ברירת המחדל?"
+    },
+    {
+      "id": 178,
+      "context": "SettingController",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "לא"
+    },
+    {
+      "id": 179,
+      "context": "SettingController",
+      "source": "Ok",
+      "comment": "",
+      "translation": "כן"
+    },
+    {
+      "id": 180,
+      "context": "SettingDlg",
+      "source": "Backup",
+      "comment": "",
+      "translation": "גיבוי"
+    },
+    {
+      "id": 181,
+      "context": "SettingDlg",
+      "source": "CPU",
+      "comment": "",
+      "translation": "מעבד (CPU)"
+    },
+    {
+      "id": 182,
+      "context": "SettingDlg",
+      "source": "Compatibility mode(OpenGL)",
+      "comment": "",
+      "translation": "מצב תאימות (OpenGL)"
+    },
+    {
+      "id": 183,
+      "context": "SettingDlg",
+      "source": "Customize",
+      "comment": "",
+      "translation": "מותאם אישית"
+    },
+    {
+      "id": 184,
+      "context": "SettingDlg",
+      "source": "Data backup",
+      "comment": "",
+      "translation": "גיבוי נתונים"
+    },
+    {
+      "id": 185,
+      "context": "SettingDlg",
+      "source": "Frames",
+      "comment": "",
+      "translation": "הגדרות פריימים"
+    },
+    {
+      "id": 186,
+      "context": "SettingDlg",
+      "source": "Graphics rendering mode",
+      "comment": "",
+      "translation": "מצב רינדור גרפי"
+    },
+    {
+      "id": 187,
+      "context": "SettingDlg",
+      "source": "Height",
+      "comment": "",
+      "translation": "גובה"
+    },
+    {
+      "id": 188,
+      "context": "SettingDlg",
+      "source": "High",
+      "comment": "",
+      "translation": "גבוה"
+    },
+    {
+      "id": 189,
+      "context": "SettingDlg",
+      "source": "Install",
+      "comment": "",
+      "translation": "התקן"
+    },
+    {
+      "id": 190,
+      "context": "SettingDlg",
+      "source": "Low",
+      "comment": "",
+      "translation": "נמוך"
+    },
+    {
+      "id": 191,
+      "context": "SettingDlg",
+      "source": "MB",
+      "comment": "",
+      "translation": "MB"
+    },
+    {
+      "id": 192,
+      "context": "SettingDlg",
+      "source": "Middle",
+      "comment": "",
+      "translation": "בינוני"
+    },
+    {
+      "id": 193,
+      "context": "SettingDlg",
+      "source": "Performance Setting",
+      "comment": "",
+      "translation": "הגדרות ביצועים"
+    },
+    {
+      "id": 194,
+      "context": "SettingDlg",
+      "source": "Phone",
+      "comment": "",
+      "translation": "טלפון נייד"
+    },
+    {
+      "id": 195,
+      "context": "SettingDlg",
+      "source": "RAM",
+      "comment": "",
+      "translation": "זיכרון (RAM)"
+    },
+    {
+      "id": 196,
+      "context": "SettingDlg",
+      "source": "Save Changes",
+      "comment": "",
+      "translation": "שמור הגדרות"
+    },
+    {
+      "id": 197,
+      "context": "SettingDlg",
+      "source": "Speed mode(Directx)",
+      "comment": "",
+      "translation": "מצב מהירות (DirectX)"
+    },
+    {
+      "id": 198,
+      "context": "SettingDlg",
+      "source": "Start",
+      "comment": "",
+      "translation": "הפעל"
+    },
+    {
+      "id": 199,
+      "context": "SettingDlg",
+      "source": "Stop",
+      "comment": "",
+      "translation": "סגור"
+    },
+    {
+      "id": 200,
+      "context": "SettingDlg",
+      "source": "Suggest setting DPI between 150 and 480",
+      "comment": "",
+      "translation": "DPI מומלץ הוא 150-480"
+    },
+    {
+      "id": 201,
+      "context": "SettingDlg",
+      "source": "System Settings",
+      "comment": "",
+      "translation": "הגדרות מערכת"
+    },
+    {
+      "id": 202,
+      "context": "SettingDlg",
+      "source": "Tablet",
+      "comment": "",
+      "translation": "טאבלט"
+    },
+    {
+      "id": 203,
+      "context": "SettingDlg",
+      "source": "Virtual buttons at the bottom",
+      "comment": "",
+      "translation": "כפתורים וירטואליים בתחתית"
+    },
+    {
+      "id": 204,
+      "context": "SettingDlg",
+      "source": "Width",
+      "comment": "",
+      "translation": "רוחב"
+    },
+    {
+      "id": 205,
+      "context": "TipWidget",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 206,
+      "context": "ToastWidget",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    },
+    {
+      "id": 207,
+      "context": "TransferDialog",
+      "source": "No write permission for this folder, please change the storage folder or run the multi-instance as an administrator",
+      "comment": "",
+      "translation": "אין הרשאת כתיבה לתיקייה זו, אנא שנה את תיקיית האחסון או הפעל את ריבוי המופעים כמנהל מערכת"
+    },
+    {
+      "id": 208,
+      "context": "UpdateTipWidget",
+      "source": "Form",
+      "comment": "",
+      "translation": "בחר הכל"
+    }
+  ]
+}
