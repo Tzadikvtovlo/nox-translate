@@ -14,8 +14,8 @@ jobs:
     - name: Run Python script
       run: python nox.py
     - name: Convert to QM
-      run: lrelease multiplayer.ts -qm multiplayer_he.qm
-    - name: Upload result
+      run: |
+        for f in *.ts; do lrelease "$f" -qm "${f%.ts}.qm"; done    - name: Upload result
       uses: actions/upload-artifact@v4
       with:
         name: translation-file
